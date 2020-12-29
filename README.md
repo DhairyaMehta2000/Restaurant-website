@@ -15,6 +15,3 @@
 - A map to the Restaurant's location guiding to the actual location
 - Responsive mobile friendly design
 - User friendly and easy to use
-
-## Deployed at
-(https://dhairyamehta2000.github.io/Restuarant-wesbite/week5/index.html)
